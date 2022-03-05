@@ -1,4 +1,0 @@
-#change java program language
--J-Duser.language=en -J-Duser.region=CN
-or
--J-Duser.language=en -J-Duser.country=CN
