@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-05T18:50:41 EET" name="Default suite" finished-at="2022-03-05T18:50:53 EET" duration-ms="12177">
+    <groups>
+    </groups>
+    <test started-at="2022-03-05T18:50:41 EET" name="Default test" finished-at="2022-03-05T18:50:53 EET" duration-ms="12177">
+      <class name="testPackage.TestCases">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:41 EET" name="beforeMethod" finished-at="2022-03-05T18:50:45 EET" duration-ms="3711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="assertTheVideoTitlefor10thResultforSeleniumTutorial()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:45 EET" name="assertTheVideoTitlefor10thResultforSeleniumTutorial" finished-at="2022-03-05T18:50:47 EET" duration-ms="2105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTheVideoTitlefor10thResultforSeleniumTutorial -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:47 EET" name="afterMethod" finished-at="2022-03-05T18:50:47 EET" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:47 EET" name="beforeMethod" finished-at="2022-03-05T18:50:50 EET" duration-ms="2923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="assertTheVideoTitleforSeleniumTutorial()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:50 EET" name="assertTheVideoTitleforSeleniumTutorial" finished-at="2022-03-05T18:50:50 EET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTheVideoTitleforSeleniumTutorial -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:50 EET" name="afterMethod" finished-at="2022-03-05T18:50:50 EET" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:50 EET" name="beforeMethod" finished-at="2022-03-05T18:50:53 EET" duration-ms="2913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="assertTheVideoTitleforTestAutomationTutorial()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:53 EET" name="assertTheVideoTitleforTestAutomationTutorial" finished-at="2022-03-05T18:50:53 EET" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTheVideoTitleforTestAutomationTutorial -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestCases@76a4ebf2]" started-at="2022-03-05T18:50:53 EET" name="afterMethod" finished-at="2022-03-05T18:50:53 EET" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testPackage.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
