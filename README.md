@@ -17,7 +17,7 @@ https://testng.org/doc/download.html
 ## usage 
 -For use create maven project put dependencies in pom.xml file like (Selenium-java , testng , WebDriverManager).
 
--Also, put some import in classes like (selenium.WebDriver , selenium.support.ui.WebDriverWait ,testng.annotations.AfterMethod , testng.annotations.BeforeMethod ,testng.annotations.Test  and import JavaScript Executor for scrolling). 
+-Also, put some import in classes like (selenium.WebDriver , selenium.support.ui.WebDriverWait ,testng.annotations.AfterMethod , testng.annotations.BeforeMethod ,testng.annotations.Test  and import JavaScript Executor for scrolling).
 
 ## Contributing
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
